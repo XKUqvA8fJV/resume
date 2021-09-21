@@ -6,7 +6,7 @@ import KmeansRGB函式
 #1到10群
 for kNum in range(1,10):
 
-    img = Image.open("20190415211416_31.jpg")  # 照片位址
+    img = Image.open("input.jpg")  # 照片位址
     img_arr = np.array(img)  # Image轉numpy
 
     img_arrNew = KmeansRGB函式.NP加座標(img_arr) #(R,G,B,像素順序)初始設定
