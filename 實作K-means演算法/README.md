@@ -9,6 +9,7 @@
 
 展示：
 原圖
+
 ![input](https://user-images.githubusercontent.com/42996962/134174529-4884af84-1563-4f87-95fd-cd8d421ec08f.jpg)
 
 分群各為 1 ~ 9 的輸出動圖：
