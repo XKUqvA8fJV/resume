@@ -7,3 +7,16 @@
 
 輸出檔名為： output_D"i"_N"j".jpg 其中 "i" 為輸入的容許最遠距離、 "j" 為輸入的集群最小構成數量
 輸出圖片內容為分群後的結果，每個群使用不同顏色上色。離群座標不標示。
+原圖
+![0](https://user-images.githubusercontent.com/42996962/135078104-47c175ee-43db-4931-9e50-a950f192420e.jpg)
+
+容許最遠距離 i = 1 集群最小構成數量 j = 5
+![output_D1_N5](https://user-images.githubusercontent.com/42996962/135078288-1a8f8401-7ca0-4bfa-a9d1-b81b7839e30b.jpg)
+
+容許最遠距離 i = 2
+集群最小構成數量 j = 5
+![output_D2_N5 jpg](https://user-images.githubusercontent.com/42996962/135078323-dac195b8-8ff2-4b03-904b-66c630ae9ddd.jpg)
+
+容許最遠距離 i = 3
+集群最小構成數量 j = 5
+![output_D3_N5 jpg](https://user-images.githubusercontent.com/42996962/135078345-5d109cf0-6665-43f6-9fb4-f5da80372e5c.jpg)
