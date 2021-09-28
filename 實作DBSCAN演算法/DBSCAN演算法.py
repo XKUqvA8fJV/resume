@@ -5,7 +5,7 @@ import DBSCAN函式
 L = 3 #距離、半徑
 Num = 5 #距離、半徑幾個容許值
 for L in range(1,L+1):
-    img = Image.open("input5.jpg")  # 照片位址
+    img = Image.open("input.jpg")  # 照片位址
     img_arr = np.array(img)  # Image轉numpy
     img_arrNew = DBSCAN函式.有像素的位址加入新陣列(img_arr)
     img_arrNew2 = DBSCAN函式.NP加判斷值2(img_arrNew)
