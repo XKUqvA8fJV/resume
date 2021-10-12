@@ -15,6 +15,7 @@
 為 queen 皇后的其中一組解
 
 展示：
+
 queen = 8
 
 ![8](https://user-images.githubusercontent.com/42996962/136897778-8c0aad0c-cfb1-4057-8501-f3ff89bdd0d5.PNG)
