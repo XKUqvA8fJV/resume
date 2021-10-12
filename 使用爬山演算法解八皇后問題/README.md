@@ -15,3 +15,14 @@
 為 queen 皇后的其中一組解
 
 展示：
+queen = 8
+
+![8](https://user-images.githubusercontent.com/42996962/136897778-8c0aad0c-cfb1-4057-8501-f3ff89bdd0d5.PNG)
+
+queen = 9
+
+![9](https://user-images.githubusercontent.com/42996962/136897807-922113ed-b481-4fc9-bb97-715513132f24.PNG)
+
+queen = 10
+
+![10](https://user-images.githubusercontent.com/42996962/136897828-f916adbd-03b7-449d-8b8b-973016fecd5f.PNG)
